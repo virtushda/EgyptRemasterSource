@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="spearthrower_data" version="1.3.0" audacityversion="2.1.2" sel0="0.1008521839" sel1="1.1205798207" vpos="0" h="0.0000000000" zoom="89.2395152505" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="soearthrower dying" channel="2" linked="0" mute="0" solo="1" height="150" minimized="0" isSelected="1" rate="44100" gain="0.630957" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="586093">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000569.au" len="262144" min="-0.572513" max="0.548912" rms="0.068541"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000ec6.au" len="161974" min="-0.475062" max="0.43678" rms="0.029942"/>
+				</waveblock>
+				<waveblock start="424118">
+					<simpleblockfile filename="e000062f.au" len="161975" min="-0.850475" max="0.96236" rms="0.053971"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Spear thrower orders " channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="0.501187" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="565337">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000201.au" len="260144" min="-0.597019" max="0.798426" rms="0.100766"/>
+				</waveblock>
+				<waveblock start="260144">
+					<simpleblockfile filename="e00009cc.au" len="262144" min="-0.401843" max="0.720248" rms="0.081853"/>
+				</waveblock>
+				<waveblock start="522288">
+					<simpleblockfile filename="e00006c7.au" len="43049" min="-0.475664" max="0.710356" rms="0.087829"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Spear thrower selection " channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="0.398107" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="496647">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000954.au" len="262144" min="-0.54141" max="0.834163" rms="0.110133"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000be1.au" len="234503" min="-0.611805" max="0.870964" rms="0.110332"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

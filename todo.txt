@@ -1,0 +1,34 @@
+Phase II: Tweaking
+
+Unit Checklist:
+DCamp: Done
+Farm: Done
+Ibis: Done
+Mummy: Done
+Obelisk: Done
+Priest: Done
+Pyramid: Done
+Scarab: Done
+Slave: Done
+Snake: Done
+Spearman: Done
+SpearThrower: Done
+Sphinx: Done
+Temple: Done
+
+Sound:
+
+Sound:
+Anubis R
+Chicken N Cred:OrangeFreeSound
+Desert Camp Idle N
+Farm Idle N
+Ibis N  Cred:sihiL and agentdd of freesound.org
+Mummy R
+Priest N/R
+Scarab N
+Slave N
+Snake N
+Spearman R
+SpearThrower N/R
+Sphinx Attacking N
